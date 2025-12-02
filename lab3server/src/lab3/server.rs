@@ -43,4 +43,31 @@ impl Server {
             }
         }
     }
+
+    /// Main server loop - accepts connections and spawns handler threads
+    pub fn run(&mut self) {
+        while !CANCEL_FLAG.load(Ordering::SeqCst) && self.listener.is_some() {
+            if let Some(ref listener) = self.listener {
+                match listener.accept() {
+                    Ok((stream, _addr)) => {
+                        // Check CANCEL_FLAG again immediately after accept
+                        if CANCEL_FLAG.load(Ordering::SeqCst) {
+                            return;
+                        }
+                        
+                        std::thread::spawn(move || {
+                            // Stuff
+                        });
+                    }
+                    Err(e) => {
+                        // Check CANCEL_FLAG immediately
+                        if CANCEL_FLAG.load(Ordering::SeqCst) {
+                            return;
+                        }
+                        let _ = writeln!(std::io::stderr().lock(), "Error: accept failed: {}", e);
+                    }
+                }
+            }
+        }
+    }
 }
