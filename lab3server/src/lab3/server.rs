@@ -3,7 +3,7 @@
 /// Author: Zichu Pan, Edgar Palomino
 /// Summary: Multi-threaded file server implementation.
 use std::io::Write;
-use std::net::TcpListener;
+use std::net::{TcpListener, TcpStream};
 use std::io::{BufRead, BufReader, Read};
 use std::fs::File;
 use std::sync::atomic::{AtomicBool, Ordering};
