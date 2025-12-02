@@ -1,0 +1,57 @@
+Act One
+
+[Enter Alice.]
+[Enter Bob.]
+
+Alice.
+Hello Bob!
+
+Bob.
+Hello Alice!
+
+Alice.
+It's a beautiful day.
+
+Bob.
+Indeed it is.
+
+[Exit Alice.]
+
+Act Two
+
+[Enter Charlie.]
+
+Bob.
+Charlie, have you seen Alice?
+
+Charlie.
+No, I haven't.
+
+Bob.
+She went home.
+
+Charlie.
+Oh, I see.
+
+[Exit Charlie.]
+[Exit Bob.]
+
+Act Three
+
+[Enter Dave.]
+[Enter Eve.]
+
+Dave.
+Where is everyone?
+
+Eve.
+They all left.
+
+Dave.
+This place is empty!
+
+Eve.
+Just the two of us now.
+
+[Exit Eve.]
+[Exit Dave.]

@@ -1,0 +1,2 @@
+[scene] Test Scene with Config Issues
+test7_config.txt

@@ -1,0 +1,40 @@
+Act I Scene I
+
+[Enter Alice.]
+[Enter Bob.]
+
+Alice.
+Hello, Bob!
+
+Bob.
+Hello, Alice!
+
+Alice.
+How are you today?
+
+Bob.
+I'm doing well, thank you.
+
+Alice.
+That's wonderful to hear.
+
+[Exit Alice.]
+
+Act I Scene II
+
+[Enter Charlie.]
+
+Bob.
+Hello, Charlie!
+
+Charlie.
+Hi Bob!
+
+Bob.
+Have you seen Alice?
+
+Charlie.
+Yes, she just left.
+
+[Exit Charlie.]
+[Exit Bob.]

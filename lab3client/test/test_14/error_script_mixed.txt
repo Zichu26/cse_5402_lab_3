@@ -1,0 +1,6 @@
+[scene] Act I Scene 1
+scene1_config.txt
+[scene] Act I Scene 2
+nonexistent_config.txt
+[scene] Act I Scene 3
+scene2_config.txt

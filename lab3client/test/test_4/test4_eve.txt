@@ -1,0 +1,4 @@
+1 First line.
+2 Second line.
+2 This is a duplicate line 2!
+4 Fourth line.

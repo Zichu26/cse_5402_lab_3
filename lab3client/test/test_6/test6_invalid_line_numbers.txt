@@ -1,0 +1,2 @@
+[scene] Test Scene with Invalid Line Numbers
+test6_config.txt

@@ -1,0 +1,5 @@
+1 Valid line.
+abc This line has invalid line number.
+2 Another valid line.
+-5 Negative line number.
+3 Final valid line.
