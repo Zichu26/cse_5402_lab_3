@@ -1,0 +1,2 @@
+Polonius net:127.0.0.1:7777:Polonius_hamlet_ii_1b.txt
+Ophelia net:127.0.0.1:7777:Ophelia_hamlet_ii_1b.txt

@@ -1,0 +1,4 @@
+Guildenstern net:127.0.0.1:7777:Guildenstern_hamlet_ii_2a.txt
+King net:127.0.0.1:7777:King_hamlet_ii_2a.txt
+Queen net:127.0.0.1:7777:Queen_hamlet_ii_2a.txt
+Rosencrantz net:127.0.0.1:7777:Rosencrantz_hamlet_ii_2a.txt

@@ -1,0 +1,2 @@
+Polonius net:127.0.0.1:7777:Polonius_hamlet_ii_1a.txt
+Reynaldo net:127.0.0.1:7777:Reynaldo_hamlet_ii_1a.txt
